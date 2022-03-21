@@ -65,7 +65,9 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
     </div>
 
 
-
+<footer>
+  
+    </footer>
 
 
     <script src="js/vendor/jquery.js"></script>
